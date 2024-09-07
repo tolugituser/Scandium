@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    color: #333;
+}
+header {
+    background: #f4f4f4;
+    padding: 1em 0;
+    text-align: center;
+}
+section {
+    padding: 1em;
+    margin: 1em;
+}
+h2 {
+    background: #ddd;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+}
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
